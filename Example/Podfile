@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GenericViews_Tests' do
+  pod 'GenericViews', :path => '../'
+  
+  
+end
